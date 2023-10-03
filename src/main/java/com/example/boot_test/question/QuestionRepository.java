@@ -1,4 +1,4 @@
-package com.example.boot_test;
+package com.example.boot_test.question;
 
 import java.util.List;
 
